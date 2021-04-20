@@ -2,7 +2,7 @@
 
 Safer and easy-to-use client-side PGP key generator
 
-**URL:** http://heiswayi.github.io/pgp/
+**URL:** http://devarajankp.github.io/pgp/
 
 ## License
 
